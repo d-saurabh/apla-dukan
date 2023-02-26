@@ -120,3 +120,19 @@ footer p {
 	color: #888;
 	margin: 0;
 }
+
+a.phone-link {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #4dc247;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+
+a.phone-link:hover {
+  background-color: #3ba036;
+  color: #fff;
+}
